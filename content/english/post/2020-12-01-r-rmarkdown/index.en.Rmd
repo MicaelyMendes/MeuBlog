@@ -1,0 +1,13 @@
+---
+title: "Analisando dados da Covid-19"
+author: "Micaely"
+date: 2022-05-11
+categories: ["R"]
+tags: ["R Markdown", "Analise de dados"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Em breve.
